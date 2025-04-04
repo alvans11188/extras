@@ -1,0 +1,24 @@
+circuito eléctrico:
+- es un camino cerrado 
+-no todos tienen componentes eléctricos
+
+pila - elemento de protección - conductor -elemento de control - conductor - receptor - conductor - generador
+
+circuio eletronico:
+-necesitan electricidad para funcionar,
+-si tines una plca sino ingresa energía no va a funcionar
+
+corriente eléctrica
+-intensidad de corriente I, su unidad de medida es el Amperio A, 
+comúnmente tenemos un multitester el cual me va a medir las medidas si es amperio omnio vario otras medidas, lo que pasa esq están co s circuito y no le colocan la medida del componente y revienta , 
+
+-Diferencia potencial V y se va a medir por los Voltios.
+
+COMPONENTES
+GENERADOR - aquellos que proporcionan energía pilas, baterias
+RECEPTOR - son los que transforman la energía procedente del generador en energía útil motores, bombillas
+CONDUCTOR - cobre
+ELEMENTO DE MANIOBRA  CONTROL aquellos que controlan el la corriente eléctrica  interrutor , un pulsador interruptor o conmutadores aquellos que van a controlar el paso de energía
+ELEMENTOS DE PROTECCON - protegen los cables y componenes del circitotableros de control  fusibles, diferenciales
+**comprar pilas de 5 y 9V
+ESQUEMA representación grafica 
